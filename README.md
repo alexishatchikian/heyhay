@@ -1,6 +1,5 @@
-# heyhay
-
-A new project.
+# HeyHay 🇦🇲 - Armenian Learning App
+V.0.0.1
 
 ## Getting Started
 
