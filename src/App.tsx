@@ -5,6 +5,7 @@ import Mission from './components/sections/Mission';
 import Features from './components/sections/Features';
 import Testimonials from './components/sections/Testimonials';
 import Team from './components/sections/Team';
+import Pricing from './components/sections/Pricing';
 import Contact from './components/sections/Contact';
 import FinalCTA from './components/sections/FinalCTA';
 import Footer from './components/sections/Footer';
@@ -18,6 +19,7 @@ function App() {
       <Features />
       <Testimonials />
       <Team />
+      <Pricing />
       <Contact />
       <FinalCTA />
       <Footer />

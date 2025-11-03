@@ -1,5 +1,5 @@
 # HeyHay 🇦🇲 - Armenian Learning App
-V.0.0.3
+V.0.0.4
 
 ## Getting Started
 
